@@ -1,7 +1,4 @@
-<p align="center">
-    <img height="180px" src = "https://github-readme-stats.vercel.app/api?username=amaoo&show_icons=true&count_private=true">
-    <img height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amaoo&layout=compact&count_private=true&langs_count=8">
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaoo&show_icons=true&line_height=33&count_private=true&theme=light" alt="amaoo's GitHub Stats" />
 
 
 
