@@ -3,7 +3,6 @@
 
 
 
-+ **Telegram:** OpenCAT
 
 <!---
 - 👋 Hi, I’m @amaoo
